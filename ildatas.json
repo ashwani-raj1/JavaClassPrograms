@@ -1,0 +1,162 @@
+[
+    {
+        "pname": "Write a program to find maximum between two numbers",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/maxtwo1.java"
+    },
+    {
+        "pname": "Write a program to find maximum between three numbers",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/maxthree2.java"
+    },
+    {
+        "pname": "Write a program to check whether a number is negative, positive or zero",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/negp3.java"
+    },
+    {
+        "pname": "Write a program to check whether a number is divisible by 5 and 11 or not",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/divi4.java"
+    },
+    {
+        "pname": "Write a program to check whether a number is even or odd",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/eodd5.java"
+    },
+    {
+        "pname": "Write a program to check whether a year is leap year or not",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/leap6.java"
+    },
+    {
+        "pname": "Write a program to check whether a character is alphabet or notw",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/char7.java"
+    },
+    {
+        "pname": "Write a program to input any alphabet and check whether it is vowel or consonant",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/vow8.java"
+    },
+    {
+        "pname": "Write a program to input any character and check whether it is alphabet, digit or special character",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/alpha9.java"
+    },
+    {
+        "pname": "Write a program to check whether a character is uppercase or lowercase alphabet",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/charcheck10.java"
+    },
+    {
+        "pname": "Write a program to input week number and print week day",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/week11.java"
+    },
+    {
+        "pname": "Write a program to input month number and print month Name",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/month12.java"
+    },
+    {
+        "pname": "Write a program to count total number of notes in given amount",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/notes13.java"
+    },
+    {
+        "pname": "Write a program to input angles of a triangle and check whether triangle is valid or not",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/angle14.java"
+    },
+    {
+        "pname": "Write a program to input all sides of a triangle and check whether triangle is valid or not",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/sides15.java"
+    },
+    {
+        "pname": "Write a program to check whether the triangle is equilateral, isosceles or scalene triangle",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/tcheck16.java"
+    },
+    {
+        "pname": "Write a program to find all roots of a quadratic equation",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/Quad17.java"
+    },
+    {
+        "pname": "Write a program to calculate profit or loss",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/ploss18.java"
+    },
+    {
+        "pname": "Write a program to input marks of five subjects and calculate percentage and grade",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/grade19.java"
+    },
+    {
+        "pname": "Write a program to input basic salary and calculate gross salary based on conditions",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/salary20.java"
+    },
+    {
+        "pname": "Write a program to input electricity unit charges and calculate total bill",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/elec21.java"
+    },
+    {
+        "pname": "Write a program to calculate total expenses with discount on quantity",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/expen22.java"
+    },
+    {
+        "pname": "Write a program to give bonus if employee has more than 3 years of service",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/serv23.java"
+    },
+    {
+        "pname": "Write a program to find gross salary based on basic salary slabs",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/gsal24.java"
+    },
+    {
+        "pname": "Write a program to calculate division based on marks in 5 subjects",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/divi25.java"
+    },
+    {
+        "pname": "Write a program to check driver insurance eligibility",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/insure26.java"
+    },
+    {
+        "pname": "Write a program to calculate salary based on gender, service, and qualifications",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/scalc27.java"
+    },
+    {
+        "pname": "Write a program to reverse a 5-digit number and check if it's a palindrome",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/rcheck28.java"
+    },
+    {
+        "pname": "Write a program to determine the youngest among Ram, Shyam and Ajay",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/yper29.java"
+    },
+    {
+        "pname": "Write a program to check if a triangle is valid based on its angles",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/vtri30.java"
+    },
+    {
+        "pname": "Find the absolute value of a number",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/aval31.java"
+    },
+    {
+        "pname": "Write a program to check if rectangle area is greater than perimeter",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/rcomp32.java"
+    },
+    {
+        "pname": "Write a program to grade steel based on hardness, carbon content, and tensile strength",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/gsteel33.java"
+    },
+    {
+        "pname": "Write a program to calculate fine for late book return based on number of days",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/libf34.java"
+    },
+    {
+        "pname": "Write a program to determine worker efficiency based on time taken",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/weff35.java"
+    },
+    {
+        "pname": "Write a Java program to check if all three input numbers are equal",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/enum36.java"
+    },
+    {
+        "pname": "Write a Java program to count number of digits in a positive integer",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/cdig37.java"
+    },
+    {
+        "pname": "Write a Java program to check if three numbers are in increasing or decreasing order",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/nord38.java"
+    },
+    {
+        "pname": "Write a Java program to create a simple calculator",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/calc39.java"
+    },
+    {
+        "pname": "Write a Java program to check whether a number is a multiple of 5",
+        "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/mfive40.java"
+    }
+]
