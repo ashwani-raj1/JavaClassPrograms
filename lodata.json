@@ -1,0 +1,399 @@
+[
+    {
+      "pname": "Sum of 1st 20 prime number using a for loop",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/Sumprime1.java"
+    },
+    {
+      "pname": "Print even numbers from 1 to 100 using a while loop",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/Evenno2.java"
+    },
+    {
+      "pname": "Print odd numbers from 1 to 100 using a do-while loop",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/odd3.java"
+    },
+    {
+      "pname": "Reverse a number using a for loop",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/rev4.java"
+    },
+    {
+      "pname": "Find the factorial of a number using a for loop",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/fact5.java"
+    },
+    {
+      "pname": "Display a multiplication table (1 to 10) using a for loop",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/multi6.java"
+    },
+    {
+      "pname": "Fibonacci series using a for loop",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/fabon7.java"
+    },
+    {
+      "pname": "Find the sum of digits of a number using a while loop",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/sumd8.java"
+    },
+    {
+      "pname": "Count the number of vowels in a string using a loop",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/numv9.java"
+    },
+    {
+      "pname": "Palindrome check using a loop",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/palin10.java"
+    },
+    {
+      "pname": "Sum of even numbers from 1 to N using a for loop",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/sumen11.java"
+    },
+    {
+      "pname": "Sum of odd numbers from 1 to N using a while loop",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/sumon12.java"
+    },
+    {
+      "pname": "Display prime numbers from 1 to N using a for loop",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/prime13.java"
+    },
+    {
+      "pname": "Check if a number is prime using a loop",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/nprime14.java"
+    },
+    {
+      "pname": "Print numbers from 1 to 100 except multiples of 3 and 5 using a loop",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/multfe15.java"
+    },
+    {
+      "pname": "Find the greatest common divisor (GCD) using a loop",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/gcd16.java"
+    },
+    {
+      "pname": "Find the least common multiple (LCM) using a loop",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/lcm17.java"
+    },
+    {
+      "pname": "Find all divisors of a number using a loop",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/alld18.java"
+    },
+    {
+      "pname": "Print the Fibonacci series up to N terms",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/fabotn19.java"
+    },
+    {
+      "pname": "Print a pyramid of stars using a loop",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/pyarmid20.java"
+    },
+    {
+      "pname": "Check whether a string is a palindrome using a loop",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/stpalin21.java"
+    },
+    {
+      "pname": "Print the first N prime numbers",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/fnp22.java"
+    },
+    {
+      "pname": "Find the sum of squares of the first N natural numbers",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/sqfn23.java"
+    },
+    {
+      "pname": "Display a triangle of numbers",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/trn24.java"
+    },
+    {
+      "pname": "Check if a number is Armstrong using a loop",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/cArms25.java"
+    },
+    {
+      "pname": "Reverse a string using a loop",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/revstr26.java"
+    },
+    {
+      "pname": "Count the number of even and odd numbers in an array using loops",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/narr27.java"
+    },
+    {
+      "pname": "Find the second largest number in an array using a loop",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/slarg28.java"
+    },
+    {
+      "pname": "Find the average of an array using a loop",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/avg29.java"
+    },
+    {
+      "pname": "Print numbers in a spiral pattern using nested loops",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/spiral30.java"
+    },
+    {
+      "pname": "Find the number of digits in a number using a loop",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/numd31.java"
+    },
+    {
+      "pname": "Generate a pattern of stars (e.g., diamond shape) using loops",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/patrn32.java"
+    },
+    {
+      "pname": "Find the sum of odd digits in a number",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/sumod33.java"
+    },
+    {
+      "pname": "Display a multiplication table of a given number using a while loop",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/mtable34.java"
+    },
+    {
+      "pname": "Count how many prime numbers exist up to a given number",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/primen35.java"
+    },
+    {
+      "pname": "Print a matrix in spiral order using a loop",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/matsp36.java"
+    },
+    {
+      "pname": "Find the number of vowels and consonants in a string",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/vovcon37.java"
+    },
+    {
+      "pname": "Find the maximum and minimum elements in an array",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/maxmin38.java"
+    },
+    {
+      "pname": "Print the factors of a number",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/factr39.java"
+    },
+    {
+      "pname": "Generate all the possible substrings of a string",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/subs40.java"
+    },
+    {
+      "pname": "Find the sum of the digits at even positions in a number",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/sumd41.java"
+    },
+    {
+      "pname": "Find the sum of the digits at odd positions in a number",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/sumdo42.java"
+    },
+    {
+      "pname": "Display the elements of a 2D array using loops",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/delearr43.java"
+    },
+    {
+      "pname": "Find the longest word in a sentence using a loop",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/long44.java"
+    },
+    {
+      "pname": "Find the shortest word in a sentence using a loop",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/sort45.java"
+    },
+    {
+      "pname": "Check if a number is a perfect number",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/cper46.java"
+    },
+    {
+      "pname": "Check if a number is an Armstrong number",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/armst47.java"
+    },
+    {
+      "pname": "Print numbers in a triangular pattern",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/trpt48.java"
+    },
+    {
+      "pname": "Find the common divisors of two numbers",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/cdiv49.java"
+    },
+    {
+      "pname": "Find the sum of the first N Fibonacci numbers",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/sumfib50.java"
+    },
+    {
+      "pname": "Generate a number pattern like Pascal's Triangle",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/pascal51.java"
+    },
+    {
+      "pname": "Print a multiplication table in reverse order",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/mlutrev52.java"
+    },
+    {
+      "pname": "Find the difference between the sum of even and odd numbers",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/diff53.java"
+    },
+    {
+      "pname": "Check if a given string contains only digits",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/onldig54.java"
+    },
+    {
+      "pname": "Print a pattern like an inverted pyramid",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/invpyr55.java"
+    },
+    {
+      "pname": "Print numbers from 1 to N using a do-while loop",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/numn56.java"
+    },
+    {
+      "pname": "Count the number of digits in an array of numbers",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/numdig57.java"
+    },
+    {
+      "pname": "Print a square matrix in a diagonal pattern",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/sqmatpt58.java"
+    },
+    {
+      "pname": "Print the Fibonacci series using a recursive function with loops",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/fibrc59.java"
+    },
+    {
+      "pname": "Count the occurrence of a specific character in a string",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/occsp60.java"
+    },
+    {
+      "pname": "Check whether two strings are anagrams using a loop",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/anagm61.java"
+    },
+    {
+      "pname": "Find the sum of the elements in a 2D matrix",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/sumarr62.java"
+    },
+    {
+      "pname": "Print a square of stars of size N using loops",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/sqstar63.java"
+    },
+    {
+      "pname": "Print an increasing number pattern",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/intpat64.java"
+    },
+    {
+      "pname": "Print a decreasing number pattern",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/decpat65.java"
+    },
+    {
+      "pname": "Print the sum of the first N even numbers",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/sumfn66.java"
+    },
+    {
+      "pname": "Print the sum of the first N odd numbers",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/sumodd67.java"
+    },
+    {
+      "pname": "Find the smallest element in an array",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/smallarr68.java"
+    },
+    {
+      "pname": "Find the largest element in an array",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/largarr69.java"
+    },
+    {
+      "pname": "Find the total number of prime numbers in an array",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/totalprim70.java"
+    },
+    {
+      "pname": "Create a checkerboard pattern using loops",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/checkpat71.java"
+    },
+    {
+      "pname": "Print numbers in reverse order from N to 1",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/numrev72.java"
+    },
+    {
+      "pname": "Print a zig-zag pattern with stars using loops",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/zigzag73.java"
+    },
+    {
+      "pname": "Display the Fibonacci sequence using a while loop",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/fibseq74.java"
+    },
+    {
+      "pname": "Print a half pyramid pattern of numbers",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/halfpyr75.java"
+    },
+    {
+      "pname": "Print an inverted half pyramid of numbers",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/inhpy76.java"
+    },
+    {
+      "pname": "Find if a number is a power of two",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/pow77.java"
+    },
+    {
+      "pname": "Check if a number is a palindrome (reverse of number equals number)",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/palin78.java"
+    },
+    {
+      "pname": "Display a pattern of stars forming an X shape",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/patstar79.java"
+    },
+    {
+      "pname": "Find the highest product of any two numbers in an array",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/highpt80.java"
+    },
+    {
+      "pname": "Print the reverse of a string using a for loop",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/revStr81.java"
+    },
+    {
+      "pname": "Print an alternating star pattern",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/alterStr82.java"
+    },
+    {
+      "pname": "Count occurrences of each digit in a number",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/echdno83.java"
+    },
+    {
+      "pname": "Find the sum of digits divisible by 3 in a number",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/sumdthr84.java"
+    },
+    {
+      "pname": "Display numbers in a spiral 2D matrix",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/spimat85.java"
+    },
+    {
+      "pname": "Count the total number of positive and negative numbers in an array",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/tpnno86.java"
+    },
+    {
+      "pname": "Sum of all positive elements in a 2D array",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/sumallp87.java"
+    },
+    {
+      "pname": "Find the number of perfect squares up to N",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/persq88.java"
+    },
+    {
+      "pname": "Print a checkerboard pattern with alternating numbers",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/checkpat89.java"
+    },
+    {
+      "pname": "Find the second smallest number in an array",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/secsmall90.java"
+    },
+    {
+      "pname": "Find the sum of digits at even indexes in a number",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/sumateven91.java"
+    },
+    {
+      "pname": "Create a pattern that forms an hourglass shape with numbers",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/hourglass92.java"
+    },
+    {
+      "pname": "Find all palindromes in a given string",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/palStr93.java"
+    },
+    {
+      "pname": "Find the number of non-zero digits in a number",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/nonzero94.java"
+    },
+    {
+      "pname": "Print the first N Fibonacci numbers recursively with loops",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/reccurfab95.java"
+    },
+    {
+      "pname": "Generate a random 2D array and print its elements",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/random96.java"
+    },
+    {
+      "pname": "Generate a multiplication matrix (N x N matrix)",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/Gmult97.java"
+    },
+    {
+      "pname": "Print a number pattern resembling a triangle",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/numpatt98.java"
+    },
+    {
+      "pname": "Count the occurrences of each character in a string using loops",
+      "plink": "https://github.com/ashwani-raj1/JavaClass/blob/main/occchar99.java"
+    }
+  ]
+  
